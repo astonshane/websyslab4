@@ -1,0 +1,67 @@
+ul{
+	list-style-type: none;
+}
+li{
+	float: left;
+	width: 12%;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+img {
+	height: 80px;
+	width: 80px;
+	padding-left: 30px;
+}
+#header li{
+	font-weight: bold;
+	text-decoration: underline;
+}
+#favorite {
+	color: green;
+}
+#supercontainer {
+	border-style: solid;
+}
+#end {
+	font-style: italic;
+	font-size: 50%;
+	width: 50%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container {
+	margin:0 auto;
+	overflow:auto;
+	width:auto;
+}
+.track {
+	font-variant: small-caps;
+}
+.artist {
+	font-weight: bold;
+}
+.album {
+	font-style: italic;
+}
+.date, .genre {
+	font-size: 75%;
+}
+ul .genre {
+	list-style-type: disc;
+}
+
+.half-width {
+        width:50%;
+        height:250px;
+        border:1px #000 solid;
+
+        /* This is just to make the document more legible. */
+        margin:1em 0;
+      }
+
+      #center-me {
+        margin-left:auto;
+        margin-right:auto;
+      }

@@ -1,0 +1,40 @@
+{
+  "songs":[
+    {
+      "track": "Nightlight",
+      "artist": "Silversun Pickups",
+      "album": "Better Nature",
+      "date": "9/25/15",
+      "genre": "Alternative",
+      "website": "http://silversunpickups.com",
+      "img":"betternature.jpg"
+    },
+    {
+      "track": "Clearest Blue",
+      "artist": "CHVRCHES",
+      "album": "Every Eye Open",
+      "date": "9/25/15",
+      "genre": "Alternative",
+      "website": "http://chvrch.es",
+      "img":"everyeyeopen.jpg"
+    },
+    {
+      "track": "The Shade",
+      "artist": "Metric",
+      "album": "Pagans In Vegas",
+      "date": "9/18/15",
+      "genre": "Alternative",
+      "website": "http://ilovemetric.com",
+      "img":"pagansinvegas.jpg"
+    },
+    {
+      "track": "Mother",
+      "artist": "Florence + The Machine",
+      "album": "How Big, How Blue, How Beautiful",
+      "date": "6/1/15",
+      "genre": "Alternative",
+      "website": "http://florenceandthemachine.net",
+      "img":"./howbig.jpg"
+    }
+  ]
+}
